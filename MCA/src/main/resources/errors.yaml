@@ -1,0 +1,3 @@
+apiErrors:
+   general: General error happened
+   notFound: The requested resource was not found

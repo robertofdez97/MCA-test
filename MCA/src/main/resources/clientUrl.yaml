@@ -1,0 +1,5 @@
+client: 
+   existingApi:
+      baseUrl: http://localhost:3001/product
+      getProduct: ${baseUrl}/{productId}
+      getSimilar: ${getProduct}/similarids
